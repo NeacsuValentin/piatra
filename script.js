@@ -23,3 +23,4 @@ function getWinner(user,computer) {
 
 
 console.log(getWinner(user,computer));
+console.log("ceva");
